@@ -35,6 +35,12 @@
 <br />
 <br />
 
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [website]: http://natan4tech.com
 [blog]: http://natan4tech.com
 [twitter]: https://twitter.com/Natan03159023
