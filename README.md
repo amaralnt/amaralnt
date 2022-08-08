@@ -28,9 +28,7 @@
 <img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img align="left" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" /> 
 
 <br />
 <br />
@@ -38,11 +36,25 @@
 ---
 
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+- [SQL: JOINS][post1]
+- [SQL: Answering Business Questions][post2]
+- [SQL: Aggregate Functions][post3]
+- [SQL: Statement Fundamentals][post4]
+
+➡️ [more blog posts...](http://natan4tech.com)
+
+---
+
+<img align="left" alt="Natan Amaral's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amaralnt&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 [website]: http://natan4tech.com
 [blog]: http://natan4tech.com
 [twitter]: https://twitter.com/Natan03159023
 [instagram]: https://instagram.com/natanjpg
 [linkedin]: https://linkedin.com/in/nt01
+
+[post1]: https://natan4tech.com/2022/08/04/sql-joins-exploratory-analysis/
+[post2]: https://natan4tech.com/2022/07/01/sql-answering-business-questions-exploratory-analysis/
+[post3]: https://natan4tech.com/2022/06/24/sql-aggregate-functions-exploratory-analysis/
+[post4]: https://natan4tech.com/2022/06/17/sql-dataset-exploration/
