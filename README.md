@@ -37,6 +37,7 @@
 
 ### 📕 Latest Blog Posts
 
+- [SQL: Advanced Commands][post5]
 - [SQL: JOINS][post1]
 - [SQL: Answering Business Questions][post2]
 - [SQL: Aggregate Functions][post3]
@@ -55,3 +56,4 @@
 [post2]: https://natan4tech.com/2022/07/01/sql-answering-business-questions-exploratory-analysis/
 [post3]: https://natan4tech.com/2022/06/24/sql-aggregate-functions-exploratory-analysis/
 [post4]: https://natan4tech.com/2022/06/17/sql-dataset-exploration/
+[post5]: https://natan4tech.com/2022/08/13/sql-advanced-commands-exploratory-analysis-pt-1/
