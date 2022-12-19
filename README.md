@@ -37,12 +37,12 @@
 
 ### 📕 Latest Blog Posts
 
-- [SQL: CREATE TABLE Statement][post6]
-- [SQL: Advanced Commands][post5]
-- [SQL: JOINS][post1]
-- [SQL: Answering Business Questions][post2]
-- [SQL: Aggregate Functions][post3]
-- [SQL: Statement Fundamentals][post4]
+- [SQL: CREATE TABLE Statement][post2]
+- [SQL: Advanced Commands][post3]
+- [SQL: JOIN clauses][post4]
+- [SQL: Answering Business Questions][post5]
+- [SQL: Aggregate Functions][post6]
+- [SQL: Statement Fundamentals][post7]
 
 ➡️ [more blog posts...](http://natan4tech.com)
 
@@ -53,9 +53,9 @@
 [instagram]: https://instagram.com/natanjpg
 [linkedin]: https://linkedin.com/in/nt01
 
-[post1]: https://natan4tech.com/2022/08/04/sql-joins-exploratory-analysis/
-[post2]: https://natan4tech.com/2022/07/01/sql-answering-business-questions-exploratory-analysis/
-[post3]: https://natan4tech.com/2022/06/24/sql-aggregate-functions-exploratory-analysis/
-[post4]: https://natan4tech.com/2022/06/17/sql-dataset-exploration/
-[post5]: https://natan4tech.com/2022/08/13/sql-advanced-commands-exploratory-analysis-pt-1/
-[post6]: https://natan4tech.com/2022/08/27/sql-create-table-statement/
+[post2]: https://natan4tech.com/2022/08/27/sql-create-table-statement/
+[post3]: https://natan4tech.com/2022/08/13/sql-advanced-commands-exploratory-analysis-pt-1/
+[post4]: https://natan4tech.com/2022/08/04/sql-joins-exploratory-analysis/
+[post5]: https://natan4tech.com/2022/07/01/sql-answering-business-questions-exploratory-analysis/
+[post6]: https://natan4tech.com/2022/06/24/sql-aggregate-functions-exploratory-analysis/
+[post7]: https://natan4tech.com/2022/06/17/sql-dataset-exploration/
