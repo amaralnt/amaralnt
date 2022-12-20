@@ -37,6 +37,7 @@
 
 ### 📕 Latest Blog Posts
 
+- [SQL: INSERT Statement][post1]
 - [SQL: CREATE TABLE Statement][post2]
 - [SQL: Advanced Commands][post3]
 - [SQL: JOIN clauses][post4]
@@ -53,6 +54,7 @@
 [instagram]: https://instagram.com/natanjpg
 [linkedin]: https://linkedin.com/in/nt01
 
+[post1]: https://natan4tech.com/2022/08/27/sql-create-table-statement/
 [post2]: https://natan4tech.com/2022/08/27/sql-create-table-statement/
 [post3]: https://natan4tech.com/2022/08/13/sql-advanced-commands-exploratory-analysis-pt-1/
 [post4]: https://natan4tech.com/2022/08/04/sql-joins-exploratory-analysis/
