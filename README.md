@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Natan 👋</h1>
 
-<h3 align="center">I'm a Programmer Analyst and Tech Enthusiast!</h3>
+<h3 align="center">I'm a Data Analyst and Tech Enthusiast!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaralnt&label=Profile%20views&color=0e75b6&style=flat" alt="amaralnt" /> </p>
 
@@ -25,7 +25,6 @@
 <img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" /> 
 
 <br />
 <br />
