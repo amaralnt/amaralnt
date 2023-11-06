@@ -7,8 +7,7 @@
 - 🔭 Check out my blog [here][blog]!
 - 📚 I’m currently learning more about SQL
 - 🤝 I’m looking to meet new ambitious and driven people
-- 🎯 2022 Goals: Learn more about Data Science and Web3
-- ⚡ Fun fact: I love to read about self development and classical literature
+- ⚡ Fun fact: I love to read about philosophy and classical literature
 
 ### Connect with me:
 
